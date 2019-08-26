@@ -30,3 +30,7 @@ F:\Repository\Clean Architecture\CleanArchitecture.MVC\obj\Debug\netcoreapp2.2\C
 F:\Repository\Clean Architecture\CleanArchitecture.MVC\obj\Debug\netcoreapp2.2\CleanArchitecture.MVC.dll
 F:\Repository\Clean Architecture\CleanArchitecture.MVC\obj\Debug\netcoreapp2.2\CleanArchitecture.MVC.pdb
 F:\Repository\Clean Architecture\CleanArchitecture.MVC\obj\Debug\netcoreapp2.2\CleanArchitecture.MVC.csproj.CopyComplete
+F:\Repository\Clean Architecture\CleanArchitecture.MVC\bin\Debug\netcoreapp2.2\CleanArchitecture.Domain.dll
+F:\Repository\Clean Architecture\CleanArchitecture.MVC\bin\Debug\netcoreapp2.2\CleanArchitecture.Infraestructure.Data.dll
+F:\Repository\Clean Architecture\CleanArchitecture.MVC\bin\Debug\netcoreapp2.2\CleanArchitecture.Infraestructure.Data.pdb
+F:\Repository\Clean Architecture\CleanArchitecture.MVC\bin\Debug\netcoreapp2.2\CleanArchitecture.Domain.pdb
