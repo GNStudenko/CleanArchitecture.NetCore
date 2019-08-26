@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CleanArchitecture.Infraestructure.Data
 {
-    class UniversityDBContext
+    public class UniversityDBContext
     {
+
     }
+
+
 }
